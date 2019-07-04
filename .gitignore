@@ -1,0 +1,17 @@
+$ cat .gitignore
+node_modules/
+
+src/.vscode/
+src/.history
+node_modules/
+alt-script/
+.history/
+.git/
+.idea/
+token.json
+package-lock.json
+requireForce: false
+tsconfig.json
+LAZYbot.code-workspace
+combined.log
+watch.json

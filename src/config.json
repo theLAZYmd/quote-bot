@@ -1,0 +1,20 @@
+{
+    "prefix": "!",
+    "ids": {
+        "bot": "338772451565502474",
+        "owner": [
+            "185412969130229760"
+        ]
+    },
+    "emojis": {
+        "left": "⬅",
+        "right": "➡"
+    },
+    "colors": {
+        "generic": 53380,
+        "error": 15406156,
+		"data": 9359868,
+		"background": 3553599
+    },
+    "avatar": "https://i.imgur.com/EncsMs8.png"
+}
